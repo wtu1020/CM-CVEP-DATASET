@@ -1,6 +1,7 @@
-The Dataset of  ArmBCIsys: Robot Arm BCI System with Time-Frequency Network for Multi-Object Grasping
+The Repo of Thesis: ArmBCIsys: Robot Arm BCI System with Time-Frequency Network for Multi-Object Grasping
 
-c-VEP dataset   125Hz   Notch Filtered 
+DATA Folder:
+c-VEP dataset (Customized Command, CA Dataset)   125Hz   Notch Filtered 
 Sampled by OpenBCI Cyton 8 Chs
 contains 6 gold code stimuli
 name: dataset_[categoty]_time.csv
